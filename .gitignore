@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# CMake file
+_*/
+
+# clion
+.idea/
+
+# emacs files
+*~
+TAGS
